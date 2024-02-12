@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeHysteria28)](https://github.com/codeHysteria28/github-readme-stats)
+
 <!--
 **codeHysteria28/codeHysteria28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
