@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeHysteria28&show_icons=true&theme=radical)](https://github.com/codeHysteria28/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=codeHysteria28&theme=radical&layout=compact)](https://github.com/codeHysteria28/github-readme-stats)
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,azure,php,react,java)](https://skillicons.dev)
